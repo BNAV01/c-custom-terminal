@@ -1,8 +1,6 @@
 # Proyecto: mysh - Un Shell Sencillo
-Integrantes del Proyecto:
-- Felix Piñaleo  20403149-5
-- Carolina Cartagena  19391725-9
-- Martin Olivos  20456069-2
+
+
 ## Descripción General
 mysh es un shell simple implementado en C que soporta las funcionalidades básicas de un shell, incluyendo ejecución de comandos, redirección de entrada/salida, y tuberías. Además, muestra un prompt con el nombre del directorio actual.
 
