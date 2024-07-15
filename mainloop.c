@@ -327,8 +327,6 @@ void print_ascii_art() {
     printf("  ██      ██   ██  ██████     ██    ███████  ██████    ██     ██████  \n");
     printf("                                                                    \n");
     printf("                                                                    \n");
-    printf(" Proyecto hecho por:                                                \n");
-    printf("  Felix Piñaleo  |  Carolina Cartagena  |  Martin Olivos              \n");
     printf("                                                                    \n");
 }
 
